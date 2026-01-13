@@ -101,5 +101,5 @@ Grade: A
 
 ## 👩‍💻 Author
 
-Valeria Rudas
-Nebula Challenge – Truora
+#### Valeria Rudas
+#### Nebula Challenge – Truora
